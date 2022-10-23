@@ -1,7 +1,7 @@
 # NJFU-LIB-SEAT-RESERVE
 ## 南京林业大学图书馆座位预约
 
-![njfulogo](/images/logonew.png)
+![njfulogo](./images/logonew.png)
 
 > #### 预约脚本有两种模式：
 > 
@@ -48,7 +48,7 @@ $ python main.py
 ```
 
 #### 预览:
-![preview](/images/preview.jpg)
+![preview](./images/preview.jpg)
 
 ****
 
